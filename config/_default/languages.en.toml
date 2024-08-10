@@ -1,16 +1,16 @@
 languageCode = "en"
 languageName = "English"
 weight = 1 # The weight determines the order of languages when building multilingual sites.
-title = "Grant's Tracks" # The title of the website. This will be displayed in the site header and footer.
+title = "Henro Michi - 四国遍路" # The title of the website. This will be displayed in the site header and footer.
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2 2006"
-  logo = "img/GrantsTracksBootLogo-512h-black.webp"
+  logo = "img/henro-logo-small.png"
   # the secondaryLogo displays when the user chooses light mode
-  secondaryLogo = "img/GrantsTracksBootLogo-512h-white.webp"
+  secondaryLogo = "img/henro-logo-small.png"
   description = "I'm Grant Wilson from Edmonton, Alberta, Canada. I'm not a world traveller, but I do love to explore and no matter where I’ve been, there is always been a strong urge to record my experience. This site is simply a way of doing just that." # This will be used in the site metadata.
   # copyright = "Copy, _right?_ :thinking_face:"
 
