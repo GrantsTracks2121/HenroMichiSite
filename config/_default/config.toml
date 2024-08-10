@@ -4,7 +4,7 @@
 
 # theme = "blowfish"
 theme = ["blowfish", "hugo-shortcode-gallery", "gpx-shortcode"]
-baseURL = "https://grantstracks.com/"
+baseURL = "https://henromichi.netlify.app"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -17,7 +17,7 @@ buildDrafts = false
 buildFuture = false
 
 enableEmoji = true
-# Commented this out on July 27 after having set up GoatCounter instead.
+# Commented this out on July 27-2024 after having set up GoatCounter instead.
 # I found Google Analytics to be ridiculously convuluted and complicated, hence the change
 # once I discovered https://www.goatcounter.com/ via setting up Quartz 4
 # googleAnalytics = "G-Z5BW9M8VGL"
