@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1 # The weight determines the order of languages when building multilingual sites.
-title = "Henro Michi - 四国遍路" # The title of the website. This will be displayed in the site header and footer.
+title = "Grant's Shikoku Henro - 四国遍路" # The title of the website. This will be displayed in the site header and footer.
 
 [params]
   displayName = "EN"

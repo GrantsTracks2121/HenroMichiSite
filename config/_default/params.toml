@@ -38,7 +38,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/dragonmoot-wide.webp" # used in: hero, and card
+  homepageImage = "img/T1-1200.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true

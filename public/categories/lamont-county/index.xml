@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lamont County on Grant&#39;s Tracks</title>
+    <title>Lamont County on Grant&#39;s Shikoku Henro - 四国遍路</title>
     <link>http://localhost:1313/categories/lamont-county/</link>
-    <description>Recent content in Lamont County on Grant&#39;s Tracks</description>
+    <description>Recent content in Lamont County on Grant&#39;s Shikoku Henro - 四国遍路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Grant S Wilson</copyright>
     <lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/lamont-county/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Car Caching Along the Backroad of Lamont County</title>
-      <link>http://localhost:1313/posts/lamont-county-car-caching/</link>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/test-post-slug/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/lamont-county-car-caching/</guid>
-      <description>Car-caching with a buddy in north Lamont County</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lamont-county-car-caching/featured-IMG_3451.webp" />
+      <guid>http://localhost:1313/posts/test-post-slug/</guid>
+      <description>This is a sample description</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/test-post-slug/featured-IMG_3451.webp" />
     </item>
     
   </channel>
