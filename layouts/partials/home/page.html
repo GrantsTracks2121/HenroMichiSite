@@ -1,10 +1,15 @@
 <article class="max-w-full prose dark:prose-invert">
+  {{/* GSW: comment out site title */}} 
+  {{/*
   {{ with .Title }}
     <header>
       <h1>{{ . | emojify }}</h1>
     </header>
   {{ end }}
+  */}} 
   <section>{{ .Content }}</section>
+  <h1>Welcome!</h1>
+  I can put my HTML in here.
 </article>
 <section>
   {{ partial "recent-articles/main.html" . }}

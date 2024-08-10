@@ -38,6 +38,7 @@ highlightCurrentMenuArea = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
+  layoutBackgroundBlur = true # only used when layout equals background - this blurs the background when one is scrolling for more items - helps with legibility.
   homepageImage = "img/T1-1200.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
@@ -45,7 +46,7 @@ highlightCurrentMenuArea = true
   showMoreLinkDest = "/posts" # this tells it to look in a certain folder for more items to display when you press the "Show More" button.
   cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background - this blurs the background when one is scrolling for more items - helps with legibility.
+  
 
 [article]
   showDate = true
@@ -53,13 +54,15 @@ highlightCurrentMenuArea = true
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
-  showAuthorBottom = true
+  # Not showing the author sections for each post
+  showAuthor = false
+  showAuthorBottom = false
   showHero = true
+  # the heroStyle controls how the featured image will display on the page
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -100,8 +103,8 @@ highlightCurrentMenuArea = true
 
 [taxonomy]
   showTermCount = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false

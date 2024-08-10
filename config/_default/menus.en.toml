@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Browse by Category"
+  name = "Categories"
   pageRef = "categories"
   weight = 10
 
@@ -20,10 +20,15 @@
   pageRef = "posts"
   weight = 20
 
+  [[main]]
+  name = "Background"
+  pageRef = "background"
+  weight = 30
+
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 30
+  weight = 40
 
 
 #[[main]]
