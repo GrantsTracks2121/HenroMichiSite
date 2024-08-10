@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>360 Photos on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/360-photos/</link>
+    <description>Recent content in 360 Photos on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/360-photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winter Walk to the Waskahegan Fire Tower</title>
+      <link>http://localhost:1313/posts/winter-fire-tower-walk/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/winter-fire-tower-walk/</guid>
+      <description>A hike to a fairly remote fire tower in the Ministik Bird Sanctuary southeast of Edmonton is brought to life with StoryMapJS, software that combines maps with images and text.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/winter-fire-tower-walk/featured-Screengrab-of-Winter-Walk-StoryMap-75opacity.png" />
+    </item>
+    
+    <item>
+      <title>St. John The Baptist Russo-Greek Catholic Orthodox Church (Farus)</title>
+      <link>http://localhost:1313/posts/st-john-the-baptist-russo-greek-catholic-orthodox-church-farus/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/st-john-the-baptist-russo-greek-catholic-orthodox-church-farus/</guid>
+      <description>This church stands at the top of a small hill overlooking a cemetery and farmland beyond.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/st-john-the-baptist-russo-greek-catholic-orthodox-church-farus/featured-Lamont-County-Churches-Sep-03-2017-042-2-Edit-Edit-PostHeader.webp" />
+    </item>
+    
+    <item>
+      <title>St. Michael the Archangel Ukrainian Catholic Church</title>
+      <link>http://localhost:1313/posts/st-michael-the-archangel-2/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/st-michael-the-archangel-2/</guid>
+      <description>Like so many others, this church is an example of a structure rebuilt after a previous church succumbed to fire. Now in need of some repair, the building is still an imposing structure.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/st-michael-the-archangel-2/featured-Lamont-County-Churches-Sep-03-2017-040-Edit-PostHeader.webp" />
+    </item>
+    
+    <item>
+      <title>Holy Trinity Russo Orthodox Church (Old Wostok)</title>
+      <link>http://localhost:1313/posts/holy-trinity-russo-orthodox-church/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/holy-trinity-russo-orthodox-church/</guid>
+      <description>In 1987 the first Orthodox liturgy on Canadian soil was celebrated near this church site. Completed in 1899, this church was the first Orthodox Church in Canada.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/holy-trinity-russo-orthodox-church/featured-Lamont-County-Churches-Sep-03-2017-454-Edit-Edit-Edit-PostHeader.webp" />
+    </item>
+    
+  </channel>
+</rss>

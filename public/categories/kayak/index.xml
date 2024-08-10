@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kayak on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/kayak/</link>
+    <description>Recent content in Kayak on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/kayak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Islet Lake Kayak Paddle</title>
+      <link>http://localhost:1313/posts/blackfoot-islet-lake-kayak-paddle-aug-17-2022/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blackfoot-islet-lake-kayak-paddle-aug-17-2022/</guid>
+      <description>Still very new to kayaking, I had great paddle around Islet Lake today.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/blackfoot-islet-lake-kayak-paddle-aug-17-2022/featured-Img_9278_2022-Aug-17.webp" />
+    </item>
+    
+    <item>
+      <title>Maiden Voyage of the Delta 12.10</title>
+      <link>http://localhost:1313/posts/maiden-voyage-of-the-delta-12/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/maiden-voyage-of-the-delta-12/</guid>
+      <description>This was the first time I was out on my new Delta 12.10 kayak. Woah, Nelly! Here we go!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/maiden-voyage-of-the-delta-12/featured-Img_9195_2022-Aug-08.webp" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edmonton on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/edmonton/</link>
+    <description>Recent content in Edmonton on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/edmonton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Short Hike Along Mtn Bike Trails East of Goldstick Park</title>
+      <link>http://localhost:1313/posts/short-hike-along-mtn-bike-trails-east-of-goldstick-park/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/short-hike-along-mtn-bike-trails-east-of-goldstick-park/</guid>
+      <description>I returned to these trails with the goal of finding a cache I&amp;rsquo;d been unable to find in Dec. 2023. Compared to that visit, this summer outing today provided a far different experience - and I loved it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/short-hike-along-mtn-bike-trails-east-of-goldstick-park/featured-IMG_3436.webp" />
+    </item>
+    
+    <item>
+      <title>Edmonton Science Park to Rundle Park Via Gnarly Mountain Bike Trails</title>
+      <link>http://localhost:1313/posts/science-park-to-bike-trails-to-rundle-park-loop-2023-dec-06/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/science-park-to-bike-trails-to-rundle-park-loop-2023-dec-06/</guid>
+      <description>I really didn&amp;rsquo;t know what I was getting myself into when I started the loop hike from Science Park, but I not only survived the hilly mountain bike trails I ended up walking on, but I enjoyed the experience.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/science-park-to-bike-trails-to-rundle-park-loop-2023-dec-06/featured-IMG_1790.webp" />
+    </item>
+    
+    <item>
+      <title>Riverside Walk: Riverboat Landing to Emily Murphy Park</title>
+      <link>http://localhost:1313/posts/riverboat-landing-to-emily-murphy-park--return-may-12-2023/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/riverboat-landing-to-emily-murphy-park--return-may-12-2023/</guid>
+      <description>The theme today seemed to be bridges and trails during my riverside walk along the North Saskatchewan River today.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/riverboat-landing-to-emily-murphy-park--return-may-12-2023/featured-Img_0613_2023-May-12.webp" />
+    </item>
+    
+    <item>
+      <title>Terwillegar Dog Park to Fort Edmonton Walk</title>
+      <link>http://localhost:1313/posts/terwillegar-to-ft-edm-walk-2023-04-19/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/terwillegar-to-ft-edm-walk-2023-04-19/</guid>
+      <description>The walk from the Terwillegar Dog Park to Fort Edmonton takes you over the N Sask River through mountain bike trails and then over the river yet again.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/terwillegar-to-ft-edm-walk-2023-04-19/featured-Img_0313_2023-Apr-19.webp" />
+    </item>
+    
+    <item>
+      <title>Hike to North Sask River Geocache Hides and MacTaggart Sanctuary</title>
+      <link>http://localhost:1313/posts/hike-to-north-sask-river-hides-and-mactaggert-sanctuary-march-19-2023/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hike-to-north-sask-river-hides-and-mactaggert-sanctuary-march-19-2023/</guid>
+      <description>The five of us tackled some steep slopes to get to some geocache hides along the North Sask River and after that hiked through the MacTaggart Sanctuary to find more geocaches</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hike-to-north-sask-river-hides-and-mactaggert-sanctuary-march-19-2023/featured-On%20Our%20Way%20Back%20To%20Parking_2023-Mar-19.jpg" />
+    </item>
+    
+    <item>
+      <title>Whitemud Ravine Geocaching Hike</title>
+      <link>http://localhost:1313/posts/whitemud-ravine-carw2023-2023-march-04/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/whitemud-ravine-carw2023-2023-march-04/</guid>
+      <description>I traversed the snowy inclined trails of the Whitemud Ravine today with a couple of geocaching buddies.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/whitemud-ravine-carw2023-2023-march-04/featured-Img_9939_2023-Mar-04.webp" />
+    </item>
+    
+  </channel>
+</rss>

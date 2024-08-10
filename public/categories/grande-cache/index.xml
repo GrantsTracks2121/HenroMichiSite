@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grande Cache on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/grande-cache/</link>
+    <description>Recent content in Grande Cache on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Sat, 13 Jun 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/grande-cache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hike to the Summit of Mt. Louie</title>
+      <link>http://localhost:1313/posts/hike-to-the-summit-of-mt-louie/</link>
+      <pubDate>Sat, 13 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hike-to-the-summit-of-mt-louie/</guid>
+      <description>Grande Cache in the distance as seen from the summit of Mt.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hike-to-the-summit-of-mt-louie/featured-Mt-Louis-001-PostHeader.webp" />
+    </item>
+    
+    <item>
+      <title>Hike up Mt. Stearn near Grande Cache</title>
+      <link>http://localhost:1313/posts/hike-up-mt-stearn-near-grande-cache/</link>
+      <pubDate>Sat, 23 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hike-up-mt-stearn-near-grande-cache/</guid>
+      <description>We arrived in Grande Cache wanting to do some hiking and chose almost randomly to climb Mt. Stearn. Boy, did pick a day for a workout!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hike-up-mt-stearn-near-grande-cache/featured-Mt-Stearn-001-PostHeader.webp" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chickakoo on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/chickakoo/</link>
+    <description>Recent content in Chickakoo on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/chickakoo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chickakoo Hike With Geocaching Buddies</title>
+      <link>http://localhost:1313/posts/chickakoo-lake-caching-hike-april-13-2024/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chickakoo-lake-caching-hike-april-13-2024/</guid>
+      <description>After parking at the Chickakoo Equestrian Lot, we proceeded to scour the eastern side of Chickakoo for caches</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chickakoo-lake-caching-hike-april-13-2024/featured-IMG_2890.webp" />
+    </item>
+    
+    <item>
+      <title>Chickakoo Caching Hike</title>
+      <link>http://localhost:1313/posts/chickakoo-caching-hike-may-26-2023/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/chickakoo-caching-hike-may-26-2023/</guid>
+      <description>I&amp;rsquo;ve always just loved hiking in the Chickakoo Lake Recreation Area. There&amp;rsquo;s is a great mix of tree species that line both the well-travelled main trails and the less-travelled &amp;ldquo;goat tracks&amp;rdquo;. This was a solo geocaching hike and I found all but one of the caches I looked for today.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/chickakoo-caching-hike-may-26-2023/featured-Img_0762_2023-May-26.webp" />
+    </item>
+    
+  </channel>
+</rss>

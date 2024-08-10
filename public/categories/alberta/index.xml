@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberta on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/alberta/</link>
+    <description>Recent content in Alberta on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/alberta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Walking a Mostly Forgotten Trail Off Spilstead Road</title>
+      <link>http://localhost:1313/posts/walking-a-mostly-forgotten-trail-off-spilstead-road-18-2024/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/walking-a-mostly-forgotten-trail-off-spilstead-road-18-2024/</guid>
+      <description>There are some out of the way trails in the Ministik that start but eventually just peter out into nothing. This is one of them.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/walking-a-mostly-forgotten-trail-off-spilstead-road-18-2024/featured-IMG_3069.webp" />
+    </item>
+    
+    <item>
+      <title>Ministik Hike Near Joseph Lake</title>
+      <link>http://localhost:1313/posts/ministik-hike-near-joseph-lake-may-14-2024/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ministik-hike-near-joseph-lake-may-14-2024/</guid>
+      <description>I made the trek down the trails of a corner of the Ministik I seldom visit today.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ministik-hike-near-joseph-lake-may-14-2024/featured-IMG_3018.webp" />
+    </item>
+    
+    <item>
+      <title>Geocaching Along the North Saskatchewan River Near Devon</title>
+      <link>http://localhost:1313/posts/geocaching-along-the-north-saskatchewan-river/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/geocaching-along-the-north-saskatchewan-river/</guid>
+      <description>Two geocaching buddies and I traversed some seldom-walked trails along the North Sask River</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/geocaching-along-the-north-saskatchewan-river/featured-Img_1135_2023-Aug-11.webp" />
+    </item>
+    
+    <item>
+      <title>Glory Hills Geocaching Hike</title>
+      <link>http://localhost:1313/posts/glory-hills-hike-2023-june-26/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/glory-hills-hike-2023-june-26/</guid>
+      <description>It was my first time hiking around the trails at in Glory Hills Natural Area. There were a few caches here, but in the end it was the trails that I remember.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/glory-hills-hike-2023-june-26/featured-Img_0928_2023-Jun-26.webp" />
+    </item>
+    
+    <item>
+      <title>Ministik Hike to the Twins Cache</title>
+      <link>http://localhost:1313/posts/hike-to-the-twins-cache-ministik-2023-04-09/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hike-to-the-twins-cache-ministik-2023-04-09/</guid>
+      <description>I made walk over early spring, still somewhat snowy ground to a remote cache today</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hike-to-the-twins-cache-ministik-2023-04-09/featured-Img_0197_2023-Apr-09.webp" />
+    </item>
+    
+    <item>
+      <title>Whitemud Ravine Geocaching Hike</title>
+      <link>http://localhost:1313/posts/whitemud-ravine-carw2023-2023-march-04/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/whitemud-ravine-carw2023-2023-march-04/</guid>
+      <description>I traversed the snowy inclined trails of the Whitemud Ravine today with a couple of geocaching buddies.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/whitemud-ravine-carw2023-2023-march-04/featured-Img_9939_2023-Mar-04.webp" />
+    </item>
+    
+  </channel>
+</rss>

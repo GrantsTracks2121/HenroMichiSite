@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devon on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/devon/</link>
+    <description>Recent content in Devon on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/devon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geocaching Along the North Saskatchewan River Near Devon</title>
+      <link>http://localhost:1313/posts/geocaching-along-the-north-saskatchewan-river/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/geocaching-along-the-north-saskatchewan-river/</guid>
+      <description>Two geocaching buddies and I traversed some seldom-walked trails along the North Sask River</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/geocaching-along-the-north-saskatchewan-river/featured-Img_1135_2023-Aug-11.webp" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musings on Grant&#39;s Tracks</title>
+    <link>http://localhost:1313/categories/musings/</link>
+    <description>Recent content in Musings on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Grant S Wilson</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/musings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Red Chair</title>
+      <link>http://localhost:1313/posts/the-red-chair/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-red-chair/</guid>
+      <description>For almost a decade a single red folding chair has been stationed at a lookout over Williams Lake in the Ministik Bird Santuary. The landscape is in constant flux around it, but the red chair remains.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-red-chair/featured-008-Red-Chair-Lookout-Ministik-Hike-Past-Tower-Big-Loop-Nov-18-2016-005.webp" />
+    </item>
+    
+    <item>
+      <title>The Endless Loop of Decision</title>
+      <link>http://localhost:1313/posts/the-endless-loop-of-decision/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-endless-loop-of-decision/</guid>
+      <description>Two very different stories share one identical, fundamentally important message.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-endless-loop-of-decision/featured-shawshank-gravity-header.png" />
+    </item>
+    
+  </channel>
+</rss>
