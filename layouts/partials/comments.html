@@ -1,8 +1,4 @@
-<!-- Call Disqus commenting service -->
-<!-- disqus config is on config.toml  -->
-{{ template "_internal/disqus.html" . }}
 
-<!-- {{ partial "disqus.html" . }} -->
 <!-- this is the code to enable cusdis
 <h4>Comments:</h4>
       <div id="cusdis_thread" data-host="https://cusdis.com"
@@ -12,3 +8,10 @@
       <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
 -->
+
+<!-- Call Disqus commenting service IT WOULD DISPLAY A MESSAGE THAT IT TOOK TOO LONG TO LOAD - NEVER WORKED-->
+<!-- disqus config is on config.toml  -->
+<!-- Use either the first or second call - the partial is supposed to be a copy of the internal option -->
+<!--{{ template "_internal/disqus.html" . }} -->
+
+<!-- {{ partial "disqus.html" . }} -->

@@ -1,0 +1,18 @@
+<!-- From https://brandonrozek.com/blog/displaying-hikes-with-gpxstudio/#grabbing-an-embed -->
+
+<!-- Grab the filename and append it to the base url -->
+<!-- {{ $url := printf "%sdata/tracks/%s" .Site.BaseURL (.Get 0) }} -->
+{{ $url := printf "%sstatic/gpx/%s" .Site.BaseURL (.Get 0) }}
+<!-- Make the state={...} URL friendly -->
+{{ $url_state := querify "state" (printf "{\"urls\":[\"%s\"]}" $url) }}
+<!-- Create the Iframe and A tag URLs -->
+{{ $iframe_url := printf "https://gpx.studio/?%s&embed&distance" $url_state }}
+{{ $a_url := printf "https://gpx.studio/?%s" $url_state }}
+<!-- Output the IFrame -->
+<iframe {{ printf "src=%q" $iframe_url | safeHTMLAttr }}
+        width="100%"
+        height="500"
+        frameborder="0"
+        allowfullscreen>
+            <p><a {{ printf "href=%q" $a_url | safeHTMLAttr }}></a></p>
+</iframe>
