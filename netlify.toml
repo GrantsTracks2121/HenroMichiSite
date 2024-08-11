@@ -15,3 +15,9 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.127.0"
+
+# Added by GSW - Sun, Aug 11, 2024 to test gpx maps with gpx.studio
+[[headers]]
+  for = "static/gpx/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
