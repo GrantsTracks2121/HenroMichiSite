@@ -99,9 +99,6 @@ highlightCurrentMenuArea = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
-[services]
-  [services.disqus]
-    shortname = 'disqus_ExU0Aw4Q0S'
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
