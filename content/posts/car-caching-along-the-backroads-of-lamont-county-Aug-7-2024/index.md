@@ -8,7 +8,7 @@ categories:
 showSummary: true
 summary: "This is a sample description"
 ---
-{{< displayGPX "Carcaching-the-don't-series-with Hugh-Aug-7-2024.gpx" >}}
+{{< displayGPX "Carcaching-the-don't-series-with-Hugh-Aug-7-2024.gpx" >}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a dapibus orci. Curabitur dictum metus lectus, quis placerat sem finibus non. Mauris consequat semper magna, eget tristique ligula porta non. Nunc eu sapien augue. Maecenas condimentum urna nec massa aliquet tincidunt. Nullam nec cursus augue. Nulla magna eros, pretium quis ipsum consequat, aliquam euismod urna. Pellentesque a sem ac erat lacinia aliquam. Sed iaculis arcu in tellus consectetur vestibulum. Phasellus accumsan turpis pharetra, pulvinar lectus ac, semper arcu.
 
