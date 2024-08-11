@@ -13,8 +13,9 @@
 <!--Container-->
 <div id='mapid_{{ $mapId }}' class="leaflet-map" style='width: {{ $mapWidth }}; height: {{ $mapHeight}}; margin: {{ $mapMargin }};' mapLat="{{ $mapLat}}" mapLon="{{ $mapLon }}" zoom="{{ $zoom }}" scrollWheelZoom="{{ $scrollWheelZoom }}" mapId="{{ $mapId }}" alt="{{ $mapDescription }}" title = "{{ $mapDescription }}"></div>
 {{/* comment
-{{.Inner}}
+{{ .Inner }}
 */}}
+{{.Inner}}
 {{ else }}
 {{ errorf "Leaflet Hugo Shortcode: please provide named Parameters" }}
 {{ end }}

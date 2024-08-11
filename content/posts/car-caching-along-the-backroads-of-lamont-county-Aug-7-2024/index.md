@@ -1,6 +1,6 @@
 ---
-title: "Test Post"
-slug: "Test Post Slug"
+title: "Car Caching"
+slug: "Another slug"
 date: "2024-08-07"
 categories:
  - "Geocaching"
@@ -8,9 +8,12 @@ categories:
 showSummary: true
 summary: "This is a sample description"
 ---
-{{< displayGPX "Carcaching-the-don't-series-with-Hugh-Aug-7-2024.gpx" >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a dapibus orci. Curabitur dictum metus lectus, quis placerat sem finibus non. Mauris consequat semper magna, eget tristique ligula porta non. Nunc eu sapien augue. Maecenas condimentum urna nec massa aliquet tincidunt. Nullam nec cursus augue. Nulla magna eros, pretium quis ipsum consequat, aliquam euismod urna. Pellentesque a sem ac erat lacinia aliquam. Sed iaculis arcu in tellus consectetur vestibulum. Phasellus accumsan turpis pharetra, pulvinar lectus ac, semper arcu.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a dapibus orci. Curabitur dictum metus lectus, quis placerat sem finibus non. Mauris consequat semper magna, eget tristique ligula porta non. Nunc eu sapien augue. Maecenas condimentum urna nec massa aliquet tincidunt. Nullam nec cursus augue. Nulla magna eros, pretium quis ipsum consequat, aliquam euismod urna. Pellentesque a sem ac erat lacinia aliquam. Sed iaculis arcu in tellus consectetur vestibulum. Phasellus accumsan turpis pharetra, pulvinar lectus ac, semper arcu.
+
+{{< icon "github" >}} this thing and here's some more text 
+
+{{< icon "train-outline" >}} another thing
 
 Vivamus eu ligula lorem. Aenean quis dui aliquet, tempus lectus id, convallis tortor. Nullam a nulla quam. Vivamus ultrices felis et nulla dapibus dignissim. Cras lacinia pulvinar ipsum, in imperdiet dolor sodales aliquet. Sed convallis bibendum ultricies. Suspendisse iaculis sed tortor in elementum.
 
@@ -20,7 +23,7 @@ Suspendisse sagittis euismod sapien ut cursus. Suspendisse at est ut nisl tincid
 
 ### The Route Today
 
-{{< gpx "gpx/Carcaching the don't series with Hugh - Aug 7 - 2024.gpx" >}}
+{{< gpx "gpx/Carcaching.gpx" >}}
 
 ### Gallery
 
