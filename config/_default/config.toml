@@ -29,6 +29,10 @@ timeout = 60000
 [imaging]
   anchor = 'Center'
 
+[services]
+  [services.disqus]
+    shortname = 'disqus_ExU0Aw4Q0S'
+
 [taxonomies]
   tag = "tags"
   category = "categories"

@@ -81,6 +81,7 @@ highlightCurrentMenuArea = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
   showSummary = true
+  showComments = true
 
 [list]
   showHero = true
@@ -97,6 +98,10 @@ highlightCurrentMenuArea = true
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
+
+[services]
+  [services.disqus]
+    shortname = 'disqus_ExU0Aw4Q0S'
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
