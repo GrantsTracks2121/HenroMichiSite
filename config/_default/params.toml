@@ -36,6 +36,7 @@ highlightCurrentMenuArea = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
+
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   layoutBackgroundBlur = true # only used when layout equals background - this blurs the background when one is scrolling for more items - helps with legibility.
