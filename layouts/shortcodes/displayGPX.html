@@ -1,7 +1,7 @@
 <!-- From https://brandonrozek.com/blog/displaying-hikes-with-gpxstudio/#grabbing-an-embed -->
 
 <!-- Grab the filename and append it to the base url -->
-{{ $url := printf "%sdata/tracks/%s" .Site.BaseURL (.Get 0) }}
+{{ $url := printf "%sstatic/gpx/%s" .Site.BaseURL (.Get 0) }}
   <!-- this below would display the gpx.studio map but no track log -->
 <!-- {{ $url := printf "%sstatic/gpx/%s" .Site.BaseURL (.Get 0) }} -->
 <!-- Make the state={...} URL friendly -->
