@@ -8,6 +8,7 @@ categories:
 showSummary: true
 summary: "This is a sample description"
 ---
+### Trying out gpx.studio map embeds
 <iframe src="https://gpx.studio/?state=%7B%22ids%22:%5B%221sFYmeiRqv9pC7fKXGVcszBqMqo35gFN_%22%5D%7D&embed" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22ids%22:%5B%221sFYmeiRqv9pC7fKXGVcszBqMqo35gFN_%22%5D%7D"></a></p></iframe>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a dapibus orci. Curabitur dictum metus lectus, quis placerat sem finibus non. Mauris consequat semper magna, eget tristique ligula porta non. Nunc eu sapien augue. Maecenas condimentum urna nec massa aliquet tincidunt. Nullam nec cursus augue. Nulla magna eros, pretium quis ipsum consequat, aliquam euismod urna. Pellentesque a sem ac erat lacinia aliquam. Sed iaculis arcu in tellus consectetur vestibulum. Phasellus accumsan turpis pharetra, pulvinar lectus ac, semper arcu.
