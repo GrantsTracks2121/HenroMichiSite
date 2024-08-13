@@ -19,7 +19,7 @@
 # Added by GSW - Sun, Aug 11, 2024 to test gpx maps with gpx.studio
 # as per this guy's solution: https://discourse.gohugo.io/t/access-control-allow-origin-cors-question/40613
 # Later I asked the "AI Help" at Netlify and it gave this same answer - put this code in the site netlify.toml
-[[headers]]
+[headers]
   for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
