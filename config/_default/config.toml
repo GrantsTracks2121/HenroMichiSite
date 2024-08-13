@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 # theme = "blowfish"
-theme = ["blowfish", "hugo-shortcode-gallery", "gpx-shortcode"]
+theme = ["blowfish", "hugo-shortcode-gallery", "gpx-shortcode", "hugo-notice"]
 baseURL = "https://henromichi.netlify.app"
 defaultContentLanguage = "en"
 

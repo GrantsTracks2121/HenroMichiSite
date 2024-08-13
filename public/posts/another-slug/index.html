@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
   data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+  
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -28,8 +30,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.65bd89f4f837d7bcd3d7bfc86a72bc2affbdda6b113d12733bdcd6d6e2bb120235e142cb25cdf75ddf8e2b46dbcd1600954c0e363b473508c1456e10d501f1a3.css"
-    integrity="sha512-Zb2J9Pg317zT17/IanK8Kv&#43;92msRPRJzO9zW1uK7EgI14ULLJc33Xd&#43;OK0bbzRYAlUwONjtHNQjBRW4Q1QHxow==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.8a2e7036a37300160a610455ccfa516208031c47beebacbc5579d7d73dc9b8315963caccd48cd4ae6ad7e09d6d7b06afb27cc8d7be464258b93f0df8f2d7a2c1.css"
+    integrity="sha512-ii5wNqNzABYKYQRVzPpRYggDHEe&#43;66y8VXnX1z3JuDFZY8rM1IzUrmrX4J1tewavsnzI175GQli5Pw348teiwQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.5999850344b06081cb67b65d814a8c3e5c9aa3375b7ef5c15d95f2cc0490094e586ec1d004320164b49989f48cd324c16bcccc04715dc41199992bd9bb0d5b2f.js"
@@ -104,7 +106,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "221"
+    "wordCount": "216"
   }]
   </script>
 
@@ -155,9 +157,6 @@
         async src="//gc.zgo.at/count.js"></script>
   
   <meta name="theme-color"/>
-  
-  
-
   
   
 </head>
@@ -562,7 +561,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-08-07 00:00:00 &#43;0000 UTC">August 7 2024</time><span class="px-2 text-primary-500">&middot;</span><span>221 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
+  <time datetime="2024-08-07 00:00:00 &#43;0000 UTC">August 7 2024</time><span class="px-2 text-primary-500">&middot;</span><span>216 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
   
 
   
@@ -641,49 +640,70 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a dapibus orci. Curabitur dictum metus lectus, quis placerat sem finibus non. Mauris consequat semper magna, eget tristique ligula porta non. Nunc eu sapien augue. Maecenas condimentum urna nec massa aliquet tincidunt. Nullam nec cursus augue. Nulla magna eros, pretium quis ipsum consequat, aliquam euismod urna. Pellentesque a sem ac erat lacinia aliquam. Sed iaculis arcu in tellus consectetur vestibulum. Phasellus accumsan turpis pharetra, pulvinar lectus ac, semper arcu.</p>
-<p>
+          <p> 
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"
+   integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+   crossorigin=""/>
 
-  <span class="relative inline-block align-text-bottom icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+ <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+   integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+   crossorigin=""></script>
 
-  </span>
 
- this thing and here&rsquo;s some more text</p>
-<p>
 
-  <span class="relative inline-block align-text-bottom icon">
-    <?xml version="1.0" encoding="utf-8"?>
 
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 viewBox="0 0 512 512"  xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#000000;}
-</style>
-<g>
-	<path fill="currentColor" class="st0" d="M442.784,66.747c-10.807-18.5-30.44-35.316-60.643-47.303C351.889,7.44,310.941,0.016,255.993,0
-		c-73.228,0.048-121.696,13.167-152.875,32.925c-15.559,9.88-26.712,21.504-33.917,33.822
-		c-7.205,12.302-10.382,25.201-10.367,37.243v259.272c0,41.656,33.759,75.446,75.462,75.462h22.196L104.313,512h41.704
-		l12.521-20.286h194.909L365.968,512h41.719l-52.18-73.276h22.197c41.703-0.016,75.446-33.806,75.462-75.462V103.99
-		C453.166,91.948,449.988,79.049,442.784,66.747z M170.62,472.145l12.789-20.702h145.182l12.79,20.702H170.62z M429.003,363.262
-		c-0.015,14.19-5.726,26.948-15.023,36.268c-9.313,9.305-22.07,15.023-36.276,15.031H134.297
-		c-14.205-0.008-26.963-5.726-36.276-15.031c-9.313-9.32-15.024-22.078-15.024-36.268V103.99c0-7.857,2.014-16.383,7.064-25.043
-		c7.582-12.939,22.26-26.507,48.719-37.039c26.412-10.516,64.451-17.753,117.213-17.736c70.396-0.04,114.474,12.892,139.928,29.142
-		c12.758,8.124,20.938,16.982,26.004,25.634c5.065,8.66,7.064,17.186,7.079,25.043V363.262z"/>
-	<path class="st0" d="M188.915,101.521H323.07c8.919,0,16.155-7.221,16.155-16.156c0-8.911-7.236-16.14-16.155-16.14H188.915
-		c-8.919,0-16.14,7.229-16.14,16.14C172.775,94.3,179.996,101.521,188.915,101.521z"/>
-	<circle class="st0" cx="160.017" cy="351.323" r="20.136"/>
-	<circle class="st0" cx="351.983" cy="351.323" r="20.136"/>
-	<rect x="132.016" y="153.669" class="st0" width="107.49" height="98.319"/>
-	<rect x="267.696" y="153.669" class="st0" width="112.288" height="98.319"/>
-</g>
-</svg>
 
-  </span>
 
- another thing</p>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+
+<blockquote>
+  <p>This is a quote from Author3 and source &ldquo;source.&rdquo;</p>
+  <footer>
+    <strong>Grant Wilson</strong>
+    
+      <cite>Myself</cite>
+    
+  </footer>
+</blockquote>
+
+53.46900584871765, -113.40606774786602
+
+	
+	<div id="mapid-113.40606774786602" style="width:800;height:500;"></div>
+
+	 
+	<script>
+		
+		let zoom =  14 ;
+		
+			var mymap = L.map('mapid-113.40606774786602').setView(["53.4690058487176", "-113.40606774786602"], zoom);
+		
+			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+				attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+			}).addTo(mymap);
+		
+			
+			
+
+	</script>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a dapibus orci. Curabitur dictum metus lectus, quis placerat sem finibus non. Mauris consequat semper magna, eget tristique ligula porta non. Nunc eu sapien augue. Maecenas condimentum urna nec massa aliquet tincidunt. Nullam nec cursus augue. Nulla magna eros, pretium quis ipsum consequat, aliquam euismod urna. Pellentesque a sem ac erat lacinia aliquam. Sed iaculis arcu in tellus consectetur vestibulum. Phasellus accumsan turpis pharetra, pulvinar lectus ac, semper arcu.</p>
 <p>Vivamus eu ligula lorem. Aenean quis dui aliquet, tempus lectus id, convallis tortor. Nullam a nulla quam. Vivamus ultrices felis et nulla dapibus dignissim. Cras lacinia pulvinar ipsum, in imperdiet dolor sodales aliquet. Sed convallis bibendum ultricies. Suspendisse iaculis sed tortor in elementum.</p>
 <p>Suspendisse sagittis euismod sapien ut cursus. Suspendisse at est ut nisl tincidunt convallis et ac velit. Vivamus convallis nisl non nisl hendrerit, vel interdum turpis pulvinar. Donec ullamcorper, enim eget bibendum cursus, enim mi feugiat lectus, a ultrices massa metus at magna. Vivamus commodo ante nec tincidunt consequat. Donec in erat aliquam, pretium urna eu, fringilla tellus. Sed maximus urna nec tellus ornare finibus. Proin sagittis metus at enim tristique, sed laoreet diam faucibus.</p>
 
@@ -959,8 +979,8 @@
 
 
 
-<div id="gallery-a79b96711218505dd9424cdb28f34348-3-wrapper" class="gallery-wrapper">
-<div id="gallery-a79b96711218505dd9424cdb28f34348-3" class="justified-gallery">
+<div id="gallery-a79b96711218505dd9424cdb28f34348-4-wrapper" class="gallery-wrapper">
+<div id="gallery-a79b96711218505dd9424cdb28f34348-4" class="justified-gallery">
 	
 		
 		
@@ -1071,6 +1091,71 @@
 
 			
 			
+				
+					
+				
+			
+
+
+			
+			
+
+			
+			
+
+
+			<div>
+				
+				
+					
+					
+				
+				<a href="/posts/another-slug/gallery/IMG_3456.jpg" 
+					class="galleryImg"
+					
+						
+
+						
+							data-description="iPhone 15 Pro + iPhone 15 Pro back triple camera 6.765mm f/1.78<br/>6.764999865652793mm f/1.7799999713880652 1/5348sec  ISO 80"
+						
+
+						
+					
+					>
+					<img			
+						width="450" height="600"
+
+						
+							
+							style="filter: blur(25px);"
+							
+								src="data:image/jpeg;base64,/9j/2wCEAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4&#43;JS5ESUM8SDc9PjsBCgsLDg0OHBAQHDsoIig7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O//AABEIACAAGAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AMrQbPTZdHkeW4cW8LCaQ4A28EEfmRXLXskU&#43;oy29kfOjX5YuuQvX&#43;tbGlzpLNdRx4iiulaIRkHC5GAR75xXV&#43;C9MXTdHfU5YVF5efu4yFyVXpkfj/KvMrV1ShzNXe1jNDvCfh&#43;8sNO87ykEkwVip6gdQAfzz9RzxW/5V5/z7f8AkRv/AIqtC1V4LdUZjgDgk9Kl89P&#43;ey/nUqbZ02toeLaRexQKA0gUPwDtzivTdHP9sWsN0oXy40AWFeNrV5Jbo81t9mUnzEYBAO5NeueHNOl0vS/sUtx5yIMZKnqecZzU1ow0b&#43;RlSinqN8U3v2DQpoRK3mXQaJDnBXI5P&#43;fWvNPIuf8An&#43;l/7&#43;10&#43;rXcOueLJIbhT/Z2lr&#43;9bbldw6jP14/CpPP8Gf8APOP8qtJxRUlzM//Z"
+							
+							class="lazy"
+							data-src="/posts/another-slug/gallery/IMG_3456_hu3414909454ac8b379b6fc75fd7ae5b40_258554_41fa2ca3fb4b0de3c0fd3573ceb01789.jpg"
+						
+
+						
+							
+								
+							
+						
+					>
+				</a>
+			</div>
+		
+	
+		
+		
+				
+			
+			
+			
+				
+			
+
+			
+			
 
 
 			
@@ -1128,7 +1213,7 @@
 	;(function($) {
 
 		$( document ).ready(() => {
-			const gallery = $("#gallery-a79b96711218505dd9424cdb28f34348-3");
+			const gallery = $("#gallery-a79b96711218505dd9424cdb28f34348-4");
 			
 
 			
