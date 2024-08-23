@@ -9,6 +9,13 @@
 
 }
 
+figcaption {
+  font-style: italic;
+  font-weight: 400;
+  font-size: .9rem;
+  max-width: 50%;
+}
+
 /*  from https://tekki-tipps.de/en/hugo-page-bundles-images/#example-shortcode-img100width */
 
 /*  CSS to support shortcode imgRight ----- */
