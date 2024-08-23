@@ -15,9 +15,9 @@ title = "Grant's Shikoku Henro - 四国遍路" # The title of the website. This 
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-name = "Grant S Wilson"
-image = "img/GSWHeadshot.webp"
-headline = "This is a test site only - Currently running with scissors. 🙀"
+name = "Grant's Shikoku Henro - 四国遍路"
+image = "img/henro-logo-small.png"
+headline = "This is a test site - currently in "running with scissors" mode. 🙀"
 # bio = "I'm Grant Wilson from Edmonton, Alberta, Canada. I'm not a world traveller, but I do love to explore and no matter where I’ve been, there is always been a strong urge to record my experience. This site is simply a way of doing just that."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
